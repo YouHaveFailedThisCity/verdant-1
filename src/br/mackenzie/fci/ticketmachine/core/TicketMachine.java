@@ -49,4 +49,7 @@ public class TicketMachine {
         result += "! Commit Danilo";
         return result;
     }
+    
+    //Commit do Thiago
+    
 }
